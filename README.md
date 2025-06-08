@@ -20,14 +20,14 @@ The objective was to create an accessible, eco-friendly site that presents a mea
 
 No installation needed. Simply open `index.php` in a local PHP server
 
-# Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (via CDN) – Chart.js, Leaflet.js, etc.
 - PHP (basic usage)
 
-# Features
+## Features
 
 - Interactive graphs and maps
 - Clean, accessible design
