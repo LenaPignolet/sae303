@@ -1,0 +1,15 @@
+[
+    { "region": "Île-de-France", "internetAccess": 4 },
+    { "region": "Provence-Alpes-Côte d'Azur", "internetAccess": 5 },
+    { "region": "Nouvelle-Aquitaine", "internetAccess": 7 },
+    { "region": "Grand Est", "internetAccess": 8 },
+    { "region": "Auvergne-Rhône-Alpes", "internetAccess": 6 },
+    { "region": "Bretagne", "internetAccess": 7 },
+    { "region": "Hauts-de-France", "internetAccess": 8 },
+    { "region": "Normandie", "internetAccess": 8 },
+    { "region": "Occitanie", "internetAccess": 9 },
+    { "region": "Centre-Val de Loire", "internetAccess": 9 },
+    { "region": "Bourgogne-Franche-Comté", "internetAccess": 10 },
+    { "region": "Pays de la Loire", "internetAccess": 10 },
+    { "region": "Corse", "internetAccess": 11 }
+]

@@ -1,0 +1,362 @@
+{
+  "Part1": [
+    {
+      "annee": 2015,
+      "imprimes": 95,
+      "numeriques": 5
+    },
+    {
+      "annee": 2016,
+      "imprimes": 94,
+      "numeriques": 6
+    },
+    {
+      "annee": 2017,
+      "imprimes": 92,
+      "numeriques": 8
+    },
+    {
+      "annee": 2018,
+      "imprimes": 88,
+      "numeriques": 12
+    },
+    {
+      "annee": 2019,
+      "imprimes": 85,
+      "numeriques": 15
+    },
+    {
+      "annee": 2020,
+      "imprimes": 80,
+      "numeriques": 20
+    },
+    {
+      "annee": 2021,
+      "imprimes": 78,
+      "numeriques": 22
+    },
+    {
+      "annee": 2022,
+      "imprimes": 76,
+      "numeriques": 24
+    },
+    {
+      "annee": 2023,
+      "imprimes": 74,
+      "numeriques": 26
+    }
+  ],
+  "Part4": [
+    {
+      "annee": 2018,
+      "presentiel": 7000,
+      "distanciel": 100
+    },
+    {
+      "annee": 2019,
+      "presentiel": 7000,
+      "distanciel": 100
+    },
+    {
+      "annee": 2020,
+      "presentiel": 1500,
+      "distanciel": 1000
+    },
+    {
+      "annee": 2021,
+      "presentiel": 2500,
+      "distanciel": 500
+    },
+    {
+      "annee": 2022,
+      "presentiel": 4000,
+      "distanciel": 200
+    }
+  ],
+  "Cinema":[
+ {
+  "annee": 2020,
+  "chiffreA": 65
+ },
+ {
+  "annee": 2021,
+  "chiffreA": 95.5
+ },
+ {
+  "annee": 2022,
+  "chiffreA": 152
+ }
+],
+  "Streaming":[
+ {
+  "annee": 2020,
+  "disney": 69,
+  "netflix": 9,
+  "primev": 50
+ },
+ {
+  "annee": 2021,
+  "disney": 73,
+  "netflix": 12,
+  "primev": ""
+ },
+ {
+  "annee": 2022,
+  "disney": 133,
+  "netflix": 20,
+  "primev": 68
+ }
+],
+  "PartMusees": [
+    {
+        "annee": 2018,
+        "presentiel": 89,
+        "distanciel": 1
+    },
+    {
+        "annee": 2019,
+        "presentiel": 49,
+        "distanciel": 3
+    },
+    {
+        "annee": 2020,
+        "presentiel": 14.7,
+        "distanciel": 16
+    },
+    {
+        "annee": 2021,
+        "presentiel": 16.6,
+        "distanciel": 10
+    },
+    {
+        "annee": 2022,
+        "presentiel": 5.5,
+        "distanciel": 7
+    }
+  ],
+  "France":[
+ {
+  "region": "Île-de-France",
+  "acces_limite": 4
+ },
+ {
+  "region": "Provence-Alpes-Côte d'Azur",
+  "acces_limite": 5
+ },
+ {
+  "region": "Auvergne-Rhône-Alpes",
+  "acces_limite": 6
+ },
+ {
+  "region": "Nouvelle-Aquitaine",
+  "acces_limite": 7
+ },
+ {
+  "region": "Bretagne",
+  "acces_limite": 7
+ },
+ {
+  "region": "Hauts-de-France",
+  "acces_limite": 8
+ },
+ {
+  "region": "Grand Est",
+  "acces_limite": 8
+ },
+ {
+  "region": "Normandie",
+  "acces_limite": 8
+ },
+ {
+  "region": "Occitanie",
+  "acces_limite": 9
+ },
+ {
+  "region": "Centre-Val de Loire",
+  "acces_limite": 9
+ },
+ {
+  "region": "Bourgogne-Franche-Comté",
+  "acces_limite": 10
+ },
+ {
+  "region": "Pays de la Loire",
+  "acces_limite": 10
+ },
+ {
+  "region": "Corse",
+  "acces_limite": 11
+ }
+],
+  "Fracture":[
+     {
+      "tranche_age": "15-24 ans",
+      "acces_limite": 2
+     },
+     {
+      "tranche_age": "25-34 ans",
+      "acces_limite": 4
+     },
+     {
+      "tranche_age": "35-44 ans",
+      "acces_limite": 5
+     },
+     {
+      "tranche_age": "45-54 ans",
+      "acces_limite": 6
+     },
+     {
+      "tranche_age": "55-64 ans",
+      "acces_limite": 10
+     },
+     {
+      "tranche_age": "65 ans et +",
+      "acces_limite": 15
+     }
+  ],
+  "Cost":[
+    {
+     "plateforme": "Netflix",
+     "pourcentage": 68
+    },
+    {
+     "plateforme": "My Canal",
+     "pourcentage": 12
+    },
+    {
+     "plateforme": "Prime Video",
+     "pourcentage": 11
+    },
+    {
+     "plateforme": "Disney",
+     "pourcentage": 5
+    },
+    {
+     "plateforme": "Autre",
+     "pourcentage": 4
+    }
+  ],
+  "Sub":[
+    {
+     "annee": 2014,
+     "prix_moyen": 7.99
+    },
+    {
+     "annee": 2015,
+     "prix_moyen": 7.99
+    },
+    {
+     "annee": 2016,
+     "prix_moyen": 8
+    },
+    {
+     "annee": 2017,
+     "prix_moyen": 8.2
+    },
+    {
+     "annee": 2018,
+     "prix_moyen": 8.5
+    },
+    {
+     "annee": 2019,
+     "prix_moyen": 8.7
+    },
+    {
+     "annee": 2020,
+     "prix_moyen": 8.9
+    },
+    {
+     "annee": 2021,
+     "prix_moyen": 9.37
+    },
+    {
+     "annee": 2022,
+     "prix_moyen": 9.5
+    },
+    {
+     "annee": 2023,
+     "prix_moyen": 10
+    },
+    {
+     "annee": 2024,
+     "prix_moyen": 15
+    }
+  ],
+  "Vente":[
+     {
+      "annee": 2016,
+      "magasin": 94,
+      "ligne": 6
+     },
+     {
+      "annee": 2017,
+      "magasin": 92,
+      "ligne": 8   
+     },
+     {
+      "annee": 2018,
+      "magasin": 90,
+      "ligne": 10   
+     },
+     {
+      "annee": 2019,
+      "magasin": 85,
+      "ligne": 15   
+     },
+     {
+      "annee": 2020,
+      "magasin": 80,
+      "ligne": 20
+     },
+     {
+      "annee": 2021,
+      "magasin": 75,
+      "ligne": 25  
+     },
+     {
+      "annee": 2022,
+      "magasin": 70,
+      "ligne": 30
+     },
+     {
+      "annee": 2023,
+      "magasin": 65,
+      "ligne": 35
+     }
+  ],
+  "Chiffre_Affaires":[
+     {
+      "annee": 2016,
+      "ca": 570
+     },
+     {
+      "annee": 2017,
+      "ca": 590
+     },
+     {
+      "annee": 2018,
+      "ca": 600
+     },
+     {
+      "annee": 2019,
+      "ca": 620
+     },
+     {
+      "annee": 2020,
+      "ca": 650
+     },
+     {
+      "annee": 2021,
+      "ca": 670
+     },
+     {
+      "annee": 2022,
+      "ca": 700
+     },
+     {
+      "annee": 2023,
+      "ca": 730
+     }
+  ]
+}
+  
